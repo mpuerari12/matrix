@@ -23,6 +23,7 @@ public class Matrix {
                 }
             }
         }
+        
         System.out.println("matrix has " + rows + " rows and " + columns + " columns");
         int[][] a = new int[rows][columns];
 
