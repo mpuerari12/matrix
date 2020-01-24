@@ -8,7 +8,7 @@ import java.util.*;
 public class Matrix {
 
     public static void main(String[] args) throws FileNotFoundException {
-
+//berx
         Scanner input = new Scanner(new File("matrix.txt"));
 // pre-read in the number of rows/columns
         int rows = 0;
